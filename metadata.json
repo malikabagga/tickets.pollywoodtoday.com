@@ -1,0 +1,6 @@
+{
+  "name": "Pollywood Today",
+  "description": "Book tickets for the latest Punjabi and Bollywood movies, live concerts, Sufi nights, and stand-up comedy shows across Punjab and North India on Pollywood Today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
